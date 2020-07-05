@@ -22,4 +22,6 @@ Editing in Jumble.js
 --
 1. The only thing to be edited is the continuous repeating text, something which describes you the best. Just press ctrl+F and search for "qlty1". Add in about 5 qualities/characteritics/talents.
 Instead of 'qlty1', change it to say 'Awesome'. NOTE: Dont delete the ' '
-
+------------------------------------------------------------
+Enjoy
+Made with love in India by Abishanka Saha
